@@ -30,5 +30,14 @@
     <ClCompile Include="dowhile_2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="AddToNum.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RealMean.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Multiplication_table_for_ver.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

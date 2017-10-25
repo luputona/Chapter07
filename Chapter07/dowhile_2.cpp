@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main()
+void main5()
 {
 	int nInput = 0;
 	int nTotal = 0;
